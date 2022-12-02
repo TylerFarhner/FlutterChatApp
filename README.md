@@ -1,16 +1,5 @@
-# myapp
+#Flutter Chat App
 
-A new Flutter project.
+I am learning Flutter to assist my dear friend in learning how to utilize and implement TalkJS as well as Flyer UI to create a chat feature within a Flutter Application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic build out just to figure out the chat side of things, then will build on it later with the rest of the app.
