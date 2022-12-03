@@ -9,3 +9,4 @@ Basic build out just to figure out the chat side of things, then will build on i
 * flutter pub get
 * replace main.dart with example snippet from TalkJS Docs/Flutter
 * flutter pub add flutter_chat_ui
+* import 'package:flutter_chat_ui/flutter_chat_ui.dart';  <--> Add to main.dart
