@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:talkjs_flutter/talkjs_flutter.dart';
-import 'package:flutter_chat_ui/flutter_chat_ui.dart';
 
 void main() {
   runApp(const MyApp());
